@@ -20,7 +20,6 @@ It explores key business insights such as:
 |-----------|-------------|
 | **`Ecommerce_Sales_Dashboard.pbix`** | Power BI dashboard file |
 | **`Ecommerce_Dashboard.png`** | Screenshot of the dashboard |
-| **`SQL_Queries.sql`** | SQL queries used for data extraction |
 | **`README.md`** | Documentation of the project |
 
 ---
